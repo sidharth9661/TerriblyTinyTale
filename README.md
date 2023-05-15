@@ -15,7 +15,7 @@
 </ol>
 
 <h2>This should successfully run the project or you can check on live url</h2>
-<p><a href='https://terriblytinytales.onrender.com/'>Live Test</a> on - OnRender</p>
+<p><a target="_blank" href='https://terriblytinytales.onrender.com/'>Live Test</a> on - OnRender</p>
 
 <h2>About Components</h2>
 <p>This project contains 4 main components which are:</p>
