@@ -1,5 +1,5 @@
-<h1>Terribly Tiny Tales - React App</h1>
-<img src="https://github.com/sidharth9661/TerriblyTinyTales/blob/master/public/chart.jpeg">
+<h1>Terribly Tiny Tale - React App</h1>
+<img src="https://github.com/sidharth9661/TerriblyTinyTale/blob/master/public/chart.jpeg">
 
 <h2>Libraries and Plugins used</h2>
 <ul>
@@ -8,8 +8,8 @@
 
 <h2>Process to Run</h2>
 <ol>
-  <li>Clone the repo: <a href='https://github.com/sidharth9661/TerriblyTinyTales.git'>https://github.com/sidharth9661/TerriblyTinyTales.git</a></li>
-  <li>cd TerriblyTinyTales</li>
+  <li>Clone the repo: <a href='https://github.com/sidharth9661/TerriblyTinyTale.git'>https://github.com/sidharth9661/TerriblyTinyTale.git</a></li>
+  <li>cd TerriblyTinyTale</li>
   <li>npm i or npm -f install</li>
   <li>npm start</li>
 </ol>
